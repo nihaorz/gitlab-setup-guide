@@ -53,7 +53,7 @@ sudo EXTERNAL_URL="http://gitlab.example.com" yum install -y gitlab-ee
 
 ## 手动汉化
 
-本汉化演示gitlab-ee-10.4.2版本的汉化，其他汉化可以举一反三。
+本汉化演示gitlab-ee-10.4.2版本的汉化，其他版本汉化可以举一反三。
 
 #### 停止gitlab服务
 
@@ -67,8 +67,9 @@ cat /opt/gitlab/embedded/service/gitlab-rails/VERSION
 10.4.2-ee
 ```
 
-
 #### 克隆获取汉化版本库
+
+> 如果你安装的是gitlab-10.4.2-ee版本，那么恭喜你，你可以下载该文件放到`/tmp`目录下，跳过三步，直接进行【安装patch并将差异变更到gitlab-rails】步骤。
 
 ```shell
 cd /root
