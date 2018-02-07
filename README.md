@@ -107,3 +107,8 @@ gitlab-ctl start
 ```shell
 gitlab-ctl reconfigure
 ```
+## 参考链接
+
+[Installation methods for GitLab](https://about.gitlab.com/installation/)
+
+[Centos7.x Gitlab10安装及汉化](http://blog.csdn.net/xiegh2014/article/details/78802591)
