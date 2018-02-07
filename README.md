@@ -69,7 +69,7 @@ cat /opt/gitlab/embedded/service/gitlab-rails/VERSION
 
 #### 克隆获取汉化版本库
 
-> 如果你安装的是gitlab-10.4.2-ee版本，那么恭喜你，你可以下载[该文件](raw/master/gitlab-10.4.2-zh.diff)放到`/tmp`目录下，跳过三步，直接进行【安装patch并将差异变更到gitlab-rails】步骤。
+> 如果你安装的是gitlab-10.4.2-ee版本，那么恭喜你，你可以下载本安装指南根目录下的`gitlab-10.4.2-zh.diff`文件放到`/tmp`目录下，跳过三步，直接进行【安装patch并将差异变更到gitlab-rails】步骤。
 
 ```shell
 cd /root
