@@ -26,7 +26,7 @@ sudo systemctl start postfix
 
 在Postfix安装期间，可能会出现一个配置屏幕。 选择“Internet Site”并按回车。 使用您服务器的外部DNS “mail name”，然后按回车。 如果出现其他屏幕，请继续按回车键以接受默认值。
 
-#### 添加gitlab软件包储存库并安装软件包
+#### 添加GitLab软件包储存库并安装软件包
 
 添加GitLab软件包库。
 
