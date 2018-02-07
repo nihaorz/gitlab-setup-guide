@@ -6,13 +6,11 @@
 
 [TOC]
 
-
-
 ## 安装英文原版
 
 ### 安装并配置必要的依赖
 
-在CentOS 7（RedHat / Oracle / Scientific Linux 7）上，用以下命令在系统防火墙中打开HTTP和SSH访问	。
+在`CentOS 7`（`RedHat` / `Oracle` / `Scientific Linux 7`）上，用以下命令在系统防火墙中打开HTTP和SSH访问	。
 
 ```shell
 sudo yum install -y curl policycoreutils-python openssh-server
