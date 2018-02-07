@@ -1,6 +1,6 @@
 # GitLab安装指南
 
-本指南仅指导用户在CentOS7下进行GitLab的安装及汉化，其他操作系统下的程序安装请前往[GitLab官网](https://about.gitlab.com/installation/)寻求指导，安装完成回来进行【手动汉化】步骤。
+本指南仅指导用户在`CentOS 7`下进行GitLab的安装及汉化，其他操作系统下的程序安装请前往[GitLab官网](https://about.gitlab.com/installation/)寻求指导，安装完成回来进行【手动汉化】步骤。
 
 ## 目录
 
